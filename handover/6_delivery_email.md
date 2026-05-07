@@ -8,14 +8,14 @@
 
 Hi [Client Name],
 
-The Priceless Home Center website is ready for final handover.
+Priceless Home Center website ready for final handover.
 
 **Website (GitHub):**
 https://github.com/defnotjaved/pricelesshomecenter
 
-*(Once a domain is purchased and connected, the live URL will be updated here.)*
+*(Once domain purchased and connected, live URL updated here.)*
 
-I've prepared a handover folder with everything you need:
+Handover folder includes:
 
 - Website Handover Document
 - Admin Guide (how to make changes)
@@ -23,22 +23,20 @@ I've prepared a handover folder with everything you need:
 - Maintenance Proposal
 - Sign-Off Form
 
-**Before we finalise, please check:**
+**Before finalising, please check:**
 
 - [ ] Homepage and all sections load correctly
-- [ ] Your phone numbers are correct (East Gates: 232-7966 / Trincity Mall: 640-9031)
-- [ ] WhatsApp button opens a chat to 708-0116
-- [ ] Store hours are correct
-- [ ] Both Google Maps links open the right locations
+- [ ] Phone numbers correct (East Gates: 232-7966 / Trincity Mall: 640-9031)
+- [ ] WhatsApp button opens chat to 708-0116
+- [ ] Store hours correct
+- [ ] Both Google Maps links open right locations
 - [ ] TikTok and Instagram links work
-- [ ] The website looks good on your phone
-- [ ] The website looks good on a desktop
+- [ ] Website looks good on phone
+- [ ] Website looks good on desktop
 
-Once you've reviewed everything and are happy, please sign and return the sign-off form so we can close out the project.
+Once reviewed and happy, sign and return sign-off form to close project.
 
-Going forward, I offer maintenance plans if you'd like me to handle future updates, new content, or anything else. Details are in the Maintenance Proposal.
-
-Let me know if you have any questions.
+Maintenance plans available for future updates, new content, or anything else. See Maintenance Proposal for details.
 
 Regards,
 [Your Name]

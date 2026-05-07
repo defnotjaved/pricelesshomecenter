@@ -1280,7 +1280,7 @@ a  { text-decoration: none; color: inherit; }
     padding: 110px 24px 80px;
   }
   .hero-right { display: none; }
-  .hero-center { order: -1; }
+  .hero-center { order: -1; align-items: center; margin: 0 auto; }
   .hero-location-badges { justify-content: center; }
   .hero-sub { margin-left: auto; margin-right: auto; }
   .hero-counter { margin-left: auto; margin-right: auto; }
@@ -1302,6 +1302,8 @@ a  { text-decoration: none; color: inherit; }
   .mobile-nav { display: flex; }
   .nav-logo { margin: 0 auto; }
   .nav-inner { position: relative; }
+
+  .hero-scroll { display: none; }
 
   .cat-grid { grid-template-columns: repeat(2, 1fr); }
   .about-stats { flex-wrap: wrap; }

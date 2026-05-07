@@ -5,9 +5,9 @@
 
 ## WHY MAINTENANCE MATTERS
 
-Your website is live — but it needs ongoing attention to stay fast, accurate, and effective. Without maintenance, links break, information goes outdated, and the site slowly loses its impact.
+Site needs ongoing attention to stay fast, accurate, effective. Links break, info goes outdated, impact fades.
 
-A maintenance plan means you never have to worry about it.
+Maintenance plan = never worry about it.
 
 ---
 
@@ -16,13 +16,13 @@ A maintenance plan means you never have to worry about it.
 ---
 
 ### BASIC WEBSITE CARE
-**Recommended for:** Businesses that just want the site kept clean and up to date.
+**For:** Businesses wanting site kept clean and current.
 
-Includes (monthly):
-- Check and fix broken links
-- Check WhatsApp and phone number links work
-- Update store hours or contact info if needed
-- Minor text corrections (1–2 changes per month)
+Monthly:
+- Fix broken links
+- Check WhatsApp and phone links work
+- Update hours or contact info
+- Minor text corrections (1–2/month)
 - Website backup
 
 **Price:** [Insert monthly rate]
@@ -30,28 +30,28 @@ Includes (monthly):
 ---
 
 ### GROWTH PLAN
-**Recommended for:** Businesses that want to stay active and grow their online presence.
+**For:** Businesses wanting active online growth.
 
-Includes everything in Basic, plus:
-- Add new customer reviews (up to 3/month)
+Everything in Basic, plus:
+- New customer reviews (up to 3/month)
 - Update product categories or brands
-- Add promotional banners or seasonal sections
-- Add new social media video links (TikTok/Instagram)
-- Basic SEO checks (page title, description, speed)
+- Add promo banners or seasonal sections
+- New social media video links (TikTok/Instagram)
+- Basic SEO checks (title, description, speed)
 
 **Price:** [Insert monthly rate]
 
 ---
 
 ### FULL DIGITAL MANAGEMENT
-**Recommended for:** Businesses that want full hands-off website management and growth.
+**For:** Businesses wanting full hands-off management.
 
-Includes everything in Growth, plus:
-- Full website content management
+Everything in Growth, plus:
+- Full content management
 - Monthly performance report
 - Google Analytics setup and review
 - Google Search Console monitoring
-- Landing page creation for promotions
+- Landing pages for promotions
 - Paid ad support (Meta/Google Ads — ad spend billed separately)
 - WhatsApp automation setup
 - Email marketing support
@@ -75,8 +75,8 @@ Includes everything in Growth, plus:
 
 ## TO SIGN UP
 
-Contact [Your Name] via:
+Contact [Your Name]:
 - WhatsApp: [Your number]
 - Email: [Your email]
 
-Maintenance begins the month after sign-off.
+Maintenance starts month after sign-off.

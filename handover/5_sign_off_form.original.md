@@ -3,11 +3,13 @@
 
 ---
 
-Client confirms Priceless Home Center website delivered, reviewed, accepted in full.
+By signing below, the client confirms that the Priceless Home Center website has been delivered, reviewed, and accepted in full.
 
 ---
 
 ## DELIVERY CHECKLIST
+
+Please confirm each item has been reviewed:
 
 | Item | Confirmed |
 |---|---|
@@ -33,12 +35,12 @@ Client confirms Priceless Home Center website delivered, reviewed, accepted in f
 
 ## ACCEPTANCE
 
-Client understands:
+The client understands that:
 
-- Website delivered as agreed
-- Future changes outside scope quoted separately
-- Post-handover support limited to agreed period
-- Maintenance plan available for ongoing updates
+- The website has been delivered as agreed
+- Future changes outside the agreed scope will be quoted separately
+- Post-handover support is limited to the agreed support period
+- A maintenance plan is available for ongoing updates
 
 ---
 

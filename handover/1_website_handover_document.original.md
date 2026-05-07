@@ -1,25 +1,25 @@
 # WEBSITE HANDOVER DOCUMENT
 **Client:** Priceless Home Center
 **Website:** https://defnotjaved.github.io/pricelesshomecenter *(pending live domain)*
-**Prepared by:** Javed | Novara AI Solutions
+**Prepared by:** [Javed | Novara AI Solutions]
 **Date:** May 2026
 
 ---
 
 ## 1. PROJECT SUMMARY
 
-Website built for Priceless Home Center. Showcases product categories, brands, reviews, locations, contact info for Trinidad customers.
+The website for Priceless Home Center has been designed and developed to give the business a professional online presence. The site showcases the store's product categories, brands, customer reviews, store locations, and contact information — making it easy for customers in Trinidad to find and reach the business.
 
 ---
 
 ## 2. WEBSITE OBJECTIVES
 
-- Present as Trinidad's trusted home goods retailer
-- Display product categories and brands
-- Contact via WhatsApp and phone
-- Showcase testimonials and social media
-- Show both store locations with maps and hours
-- Build online credibility for 27-year-old business
+- Present Priceless Home Center as Trinidad's trusted home goods retail store
+- Display product categories and brands clearly
+- Allow customers to contact the business via WhatsApp and phone
+- Showcase customer testimonials and social media content
+- Display both store locations with maps and hours
+- Build online credibility for a 27-year-old business
 
 ---
 
@@ -79,7 +79,7 @@ Website built for Priceless Home Center. Showcases product categories, brands, r
 
 ## 6. WEBSITE STRUCTURE
 
-**Static HTML site** — no WordPress/CMS. All content in these files:
+This is a **static HTML website** — it does not use WordPress or a CMS. All content lives directly in the following files:
 
 ```
 pricelesshomecentre/
@@ -106,12 +106,12 @@ pricelesshomecentre/
 **Current Hosting:** GitHub Pages (free)
 **Repository:** https://github.com/defnotjaved/pricelesshomecenter
 
-**To connect custom domain:**
-1. Purchase domain (e.g. pricelesshomecenter.com)
-2. GitHub repo → Settings → Pages → Custom Domain → enter domain
-3. Update DNS at registrar to point to GitHub Pages
+**To connect a custom domain:**
+1. Purchase a domain (e.g. pricelesshomecenter.com)
+2. In the GitHub repo → Settings → Pages → Custom Domain → enter your domain
+3. Update DNS at your domain registrar to point to GitHub Pages
 
-**Recommended Registrars:** Namecheap, GoDaddy, Cloudflare
+**Recommended Domain Registrars:** Namecheap, GoDaddy, Cloudflare
 
 ---
 
@@ -132,13 +132,13 @@ pricelesshomecentre/
 ## 9. MAINTENANCE RECOMMENDATIONS
 
 Monthly:
-- Update product categories if new added
+- Update product categories if new ones are added
 - Replace store images with fresh photos
 - Add new customer reviews
-- Update hours if changed
-- Check WhatsApp number active
-- Check all links work
-- Update phone numbers if changed
+- Update hours if they change
+- Check WhatsApp number is still active
+- Check all links still work
+- Update phone numbers if they change
 
 ---
 
@@ -155,7 +155,7 @@ Monthly:
 **Not covered:**
 - New pages or sections
 - Major redesigns
-- New features
+- New features or functionality
 - Social media management
 - SEO campaigns
 - Paid advertising
@@ -164,7 +164,7 @@ Monthly:
 
 ## 11. FINAL ACCEPTANCE
 
-Client confirms website delivered and reviewed.
+By signing below, the client confirms the website has been delivered and reviewed.
 
 **Client Name:** _______________________________
 

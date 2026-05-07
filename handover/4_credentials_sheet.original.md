@@ -1,6 +1,6 @@
 # CREDENTIALS SHEET — PRICELESS HOME CENTER
 
-> IMPORTANT: Do not share over WhatsApp or email. Store in secure location or password manager.
+> IMPORTANT: Do not share this file over WhatsApp or email. Store it in a secure location or password manager.
 
 ---
 
@@ -23,7 +23,7 @@
 | Account Email | [Email used to register] |
 | Password | [Send separately] |
 | Domain Name | [e.g. pricelesshomecenter.com] |
-| Expiry Date | [Date — set renewal reminder] |
+| Expiry Date | [Date — add a reminder to renew] |
 
 ---
 
@@ -57,6 +57,6 @@
 
 ## NOTES
 
-- Change all passwords from any temp values provided by developer.
-- Store copy in secure, private location.
-- Keep personal copy separate from this file.
+- All passwords should be changed from any temporary values provided by the developer.
+- Store a copy of this document in a secure, private location.
+- Keep a personal copy separate from this file.
